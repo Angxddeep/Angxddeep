@@ -1,7 +1,7 @@
 
 ### 🔭 About me
 - Using linux to code
-- Trying to learn Rust,C
+- Trying to learn Rust
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angxddeep&show_icons=true&locale=en&layout=compact&theme=nord" alt="Lunarequest" /></p>
 
