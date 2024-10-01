@@ -3,6 +3,8 @@
 - Using linux to code
 - Trying to learn Rust
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Fedora-informational?&style=for-the-badge&color=46b3c1"/>
   <img src="https://img.shields.io/badge/DE-KDE Plasma-%2315224D?style=for-the-badge"/>
