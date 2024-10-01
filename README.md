@@ -3,8 +3,15 @@
 - Using linux to code
 - Trying to learn Rust
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Fedora-informational?&style=for-the-badge&color=46b3c1"/>
+  <img src="https://img.shields.io/badge/DE-KDE Plasma-%2315224D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TERM-Alacritty-%23510FA9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BROWSER-BRAVE-%23FD1D13?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%23308027?style=for-the-badge"/>
+</p>
 
-## ⚡ My stats
+## ⚡ Stats
 <p align="center">
   <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=Angxddeep&show_icons=true&locale=en&theme=nightowl"/>
   <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Angxddeep&theme=nightowl"/>
