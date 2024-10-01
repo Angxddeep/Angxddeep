@@ -3,13 +3,13 @@
 - Using linux to code
 - Trying to learn Rust
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=Angxddeep&show_icons=true&locale=en&theme=nightowl" alt="Angaddeep" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Angxddeep&theme=nightowl" alt="Angaddeep" /></p>
-
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angxddeep&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Angaddeep" /></p>
-
-[![Angad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Angxddeep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ My stats
+<p align="center">
+  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=Angxddeep&show_icons=true&locale=en&theme=nightowl"/>
+  <img align="right" width="400rem" height="200rem" "https://github-readme-streak-stats.herokuapp.com/?user=Angxddeep&theme=nightowl" alt="Angaddeep"/>
+  <img align="center" width="600rem" height="200rem"src="https://github-readme-stats.vercel.app/api/top-langs?username=Angxddeep&show_icons=true&locale=en&layout=compact&theme=nightowl"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Angxddeep&color=blue)
 
