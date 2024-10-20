@@ -20,5 +20,6 @@
   <img align="center" width="600rem" height="200rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angxddeep&layout=compact&card_width=600rem&hide_border=true&theme=nightowl"//>
 </p>
 
+![](https://skillicons.dev/icons?i=rust,c,java,python,bash&theme=dark&perline=7)
 ![](https://komarev.com/ghpvc/?username=Angxddeep&color=blue)
 
