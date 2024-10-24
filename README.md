@@ -21,5 +21,6 @@
 </p>
 
 ![](https://skillicons.dev/icons?i=rust,c,java,python,bash&theme=dark&perline=7)
+
 ![](https://komarev.com/ghpvc/?username=Angxddeep&color=blue)
 
