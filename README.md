@@ -15,9 +15,9 @@
 
 ## ⚡ Stats
 <p align="center">
-  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=Angxddeep&show_icons=true&locale=en&theme=nightowl"/>
-  <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Angxddeep&theme=nightowl"/>
-  <img align="center" width="600rem" height="200rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angxddeep&layout=compact&card_width=600rem&hide_border=true&theme=nightowl"//>
+  <img align="left" width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=Angxddeep&show_icons=true&locale=en&theme=tokyonight"/>
+  <img align="right" width="400rem" height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Angxddeep&theme=tokyonight"/>
+  <img align="center" width="600rem" height="200rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angxddeep&layout=compact&card_width=600rem&hide_border=true&theme=tokyonight"//>
 </p>
 
 ![](https://skillicons.dev/icons?i=rust,c,java,python,bash&theme=dark&perline=7)
