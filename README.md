@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/OS-Fedora-informational?&style=for-the-badge&color=46b3c1"/>
   <img src="https://img.shields.io/badge/DE-KDE Plasma-%2315224D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TERMINAL-Alacritty-%23510FA9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BROWSER-BRAVE-%23FD1D13?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-%23308027?style=for-the-badge"/>
 </p>
 
 ## ⚡ Stats
