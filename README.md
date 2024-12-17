@@ -1,7 +1,6 @@
 
 ### 🔭 About me
-- Using linux to code
-- Trying to learn Rust
+- 📫 Reach me over the links in the left sidebar on my website.
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Fedora-informational?&style=for-the-badge&color=46b3c1"/>
