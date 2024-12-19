@@ -3,7 +3,7 @@
 - 📫 Visit me on my [website](https://angxddeep.github.io/).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Fedora-informational?&style=for-the-badge&color=46b3c1"/>
+  <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?&style=for-the-badge&color=46b3c1"/>
 </p>
 
 ## ⚡ Stats
